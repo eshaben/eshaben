@@ -1,6 +1,6 @@
 # Hi, I'm Erin 👋
 
-I'm a Documentation Engineer Lead with 5+ years combining software engineering with technical communication and content strategy. I design and build documentation as a product, engineering the systems it runs on and leading the teams that maintain it, so developers (and increasingly, AI agents) can discover, understand, and apply technical knowledge.
+I'm a Documentation Engineer Lead with 5+ years experience, combining software engineering with technical communication and content strategy. I design and build documentation as a product, engineering the systems it runs on and leading the teams that maintain it, so developers (and increasingly, AI agents) can discover, understand, and apply technical knowledge.
 
 ## ✍️ What I Do
 
